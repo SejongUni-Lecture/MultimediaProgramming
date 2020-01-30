@@ -10,6 +10,6 @@ I've not uploaded lecture materials due to copyright issues.
 ## Library
 C++ based on OpenCV  
 
-### How to set OpenCV environment
+### How to set OpenCV on Window environment
 
 
