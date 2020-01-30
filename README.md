@@ -8,7 +8,7 @@ I've not uploaded lecture materials due to copyright issues.
 ---
 
 ## Library
-C++97 based on OpenCV  
+C++ based on OpenCV  
 
 ### How to set OpenCV environment
 
