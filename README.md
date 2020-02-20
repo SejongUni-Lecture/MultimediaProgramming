@@ -29,5 +29,5 @@ I've not uploaded lecture materials due to copyright issues.
 C++ based on OpenCV  
 For more information visit: 
 * [OpenCV officials](https://opencv.org/) 
-* [OpenCV installation guide](https://github.com/ameliacode/Multimedia_programming/install_guide.md)
+* [OpenCV installation guide](https://github.com/ameliacode/Multimedia_programming/blob/master/install_guide.md)
 
