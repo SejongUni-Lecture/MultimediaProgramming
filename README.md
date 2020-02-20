@@ -7,10 +7,10 @@ I've not uploaded lecture materials due to copyright issues.
 ## Summary
 ### Assignments
 <p align = "center">
-<img src = "./img/Screenshot.PNG", height = 300></img>
-<img src = "./img/Screenshot_01.PNG", height = 300></img>
-<img src = "./img/Screenshot_assignment3.PNG", height = 300></img>
-<img src = "./img/캡처.PNG", height = 300></img>
+<img src = "./img/Screenshot.PNG", height = 350></img>
+<img src = "./img/Screenshot_01.PNG", height = 350></img>
+<img src = "./img/Screenshot_assignment3.PNG", height = 350></img>
+<img src = "./img/캡처.PNG", height = 350></img>
 </p>
 
 ### Exam practices
