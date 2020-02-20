@@ -7,20 +7,20 @@ I've not uploaded lecture materials due to copyright issues.
 ## Summary
 ### Assignments
 <p align = "center">
-<img src = "./img/Screenshot.png", height = 300></img>
-<img src = "./img/Screenshot_01.png", height = 300></img>
-<img src = "./img/Screenshot_assignment3.png", height = 300></img>
-<img src = "./img/캡처.png", height = 300></img>
+<img src = "./img/Screenshot.PNG", height = 300></img>
+<img src = "./img/Screenshot_01.PNG", height = 300></img>
+<img src = "./img/Screenshot_assignment3.PNG", height = 300></img>
+<img src = "./img/캡처.PNG", height = 300></img>
 </p>
 
 ### Exam practices
 <p align = "center">
-<img src = "./img/(9).PNG", height = 250></img>
-<img src = "./img/(12).PNG", height = 250></img>
-<img src = "./img/(15).PNG", height = 250></img>
-<img src = "./img/(18).PNG", height = 250></img>
-<img src = "./img/(22).PNG", height = 250></img>
-<img src = "./img/(25).PNG", height = 250></img>
+<img src = "./img/(9).png", height = 250></img>
+<img src = "./img/(12).png", height = 250></img>
+<img src = "./img/(15).png", height = 250></img>
+<img src = "./img/(18).png", height = 250></img>
+<img src = "./img/(22).png", height = 250></img>
+<img src = "./img/(25).png", height = 250></img>
 </p>
 
 ---
