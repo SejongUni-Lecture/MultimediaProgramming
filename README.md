@@ -1,7 +1,7 @@
 # Multimedia programming
 
 This repository is for **Multimedia programming** lecture related material and assignments  
-I've not uploaded lecture notes, personal paper works and notes and opened to public due to copyright issues  
+I've not uploaded lecture notes, personal paper works and opened to public due to copyright issues  
 
 ---
 ## Summary
