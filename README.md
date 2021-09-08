@@ -1,10 +1,9 @@
-# Multimedia programming
+## Multimedia programming
 
 This repository is for **Multimedia programming** lecture related material and assignments  
 I've not uploaded lecture notes, personal paper works and opened to public due to copyright issues  
 
 ---
-## Summary
 ### Assignments
 <p align = "center">
 <img src = "./img/Screenshot.PNG", height = 350></img>
@@ -25,7 +24,7 @@ I've not uploaded lecture notes, personal paper works and opened to public due t
 
 ---
 
-## Library
+### Library
 C++ based on OpenCV  
 For more information visit: 
 * [OpenCV officials](https://opencv.org/) 
