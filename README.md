@@ -24,7 +24,7 @@ I've not uploaded lecture notes, personal paper works and opened to public due t
 
 ---
 
-### Library
+## Library
 C++ based on OpenCV  
 For more information visit: 
 * [OpenCV officials](https://opencv.org/) 
